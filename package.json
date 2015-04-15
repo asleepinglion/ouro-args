@@ -1,0 +1,23 @@
+{
+  "name": "superjs-args",
+  "version": "0.8.1",
+  "description": "Argument Parser for SuperJS!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asleepinglion/superjs-args"
+  },
+  "keywords": [
+    "Argument",
+    "Parsing"
+  ],
+  "author": "Aaron Storck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asleepinglion/superjs-args/issues"
+  },
+  "homepage": "https://github.com/asleepinglion/superjs-args",
+  "dependencies": {
+    "minimist": "*"
+  }
+}
