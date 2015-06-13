@@ -1,11 +1,11 @@
 {
-  "name": "superjs-args",
-  "version": "0.8.1",
-  "description": "Argument Parser for SuperJS!",
+  "name": "ouro-args",
+  "version": "0.9.0",
+  "description": "Argument Parser for Ouro!",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asleepinglion/superjs-args"
+    "url": "https://github.com/asleepinglion/ouro-args"
   },
   "keywords": [
     "Argument",
@@ -14,9 +14,9 @@
   "author": "Aaron Storck",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/asleepinglion/superjs-args/issues"
+    "url": "https://github.com/asleepinglion/ouro-args/issues"
   },
-  "homepage": "https://github.com/asleepinglion/superjs-args",
+  "homepage": "https://github.com/asleepinglion/ouro-args",
   "dependencies": {
     "minimist": "*"
   }
